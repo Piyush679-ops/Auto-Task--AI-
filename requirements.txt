@@ -1,7 +1,6 @@
 
 streamlit
 pandas
-sqlite3
 matplotlib
 transformers
 torch
